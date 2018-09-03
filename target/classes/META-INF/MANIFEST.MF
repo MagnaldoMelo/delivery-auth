@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: magnaldo
+Build-Jdk: 10.0.1
+Implementation-Title: delivery-auth
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.coderef
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/delivery-auth
+Created-By: Maven Integration for Eclipse
+
